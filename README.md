@@ -6,6 +6,8 @@ Simple browser extension that:
 
 ## How to use
 
+IMPORTANT: Make sure you select your timezone first. The extension infers that the selection for the timezone is the same default timezone you have on Google Calendar.
+
 ### Installing
 
 1. Clone the repository
@@ -25,7 +27,3 @@ Simple browser extension that:
 2. Click on the gear icon and select `Debug Add-ons`
 3. Click on `Load Temporary Add-on`
 4. Select the `background.js` file from the cloned repository
-
-### Using
-
-IMPORTANT: Make sure you select your timezone first. The extension infers that the selection for the timezone is the same default timezone you have on Google Calendar.
