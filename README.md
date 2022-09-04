@@ -8,6 +8,8 @@ Simple browser extension that:
 
 IMPORTANT: Make sure you select your timezone first. The extension infers that the selection for the timezone is the same default timezone you have on Google Calendar.
 
+To import the CSV into Google Calendar, go to Settings > Import and Export and select the csv file.
+
 ### Installing
 
 1. Clone the repository
